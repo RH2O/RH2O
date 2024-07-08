@@ -16,7 +16,7 @@ I'm a passionate backend developer with a solid background in software engineeri
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RH2O&show_icons=true&theme=radical)
 
 ## 📚 Projects
 
