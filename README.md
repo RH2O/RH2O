@@ -14,9 +14,6 @@ I'm a passionate backend developer with a solid background in software engineeri
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Technologies:** Git, Docker, RESTful APIs
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RH2O&show_icons=true&theme=radical)
 
 ## 📚 Projects
 
@@ -26,3 +23,8 @@ I'm a passionate backend developer with a solid background in software engineeri
 ## 🌐 Connect with Me
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdulrahman-alwani-22847a203/)
+
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RH2O&show_icons=true&theme=radical)
