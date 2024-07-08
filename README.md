@@ -22,7 +22,7 @@ I'm a passionate backend developer with a solid background in software engineeri
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdulrahman-alwani-22847a203/)
+- LinkedIn: [Abdulrahman](https://www.linkedin.com/in/abdulrahman-alwani-22847a203/)
 
 
 ## 📊 GitHub Stats
